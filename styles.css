@@ -1,0 +1,98 @@
+.intro{
+    font-size: 55px;
+    color: rgb(32, 31, 31);
+    margin-top:-6px;
+}
+.ho{
+    padding-top: 15px;
+    font-weight: 50;
+    font-size: 30px;
+}
+.conduct{
+    font-size: 23px;
+    font-weight: 100;
+}
+.first{
+    background-color: #006db0;
+}
+.date{
+    font-weight: 200;
+    font-size: small;
+    font-size: 19px;
+
+}
+.bg-danger{
+    background-color: #dc3545;
+    color: white;
+    font-size:  x-small;
+    
+
+}
+.img-fluid{
+    margin-top:19px;
+    width: 350px;
+    border-color: beige;
+    border-width: 100px;
+    
+    border-radius:30px
+}
+.card-title{
+    font-size: 15px;
+}
+.card-text{
+    font-size: 13px;
+    margin-top: -28px;
+}
+
+
+.rrr{
+    width: 80px;
+   
+   
+  
+}
+.why{
+    margin-top:29px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.hybrid{
+    width: 80px;
+    
+    padding-top: 3px;
+    
+}
+.headi{
+    font-size:  20px;
+    align-self: center;
+    font-weight: bolder;
+    
+   
+    margin-top: 3px;
+}
+.dev{
+    
+ 
+    font-size: 25px;
+    font-weight: 400;
+    font-family: system-ui;
+    color: rgb(117, 113, 113);
+    
+    margin-top: 92px;
+}
+.reg{
+    font-size: 18px;
+    margin-left: 50px;
+}
+.butt{
+    width: 170px;
+    height: 40px;
+    font-style: unset;
+    font-size: 14px;
+    font-weight: 500;
+   
+
+}
+.fon{
+    font: weight 600px;;
+}
